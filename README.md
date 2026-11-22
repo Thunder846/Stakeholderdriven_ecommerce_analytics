@@ -1290,12 +1290,4 @@ ecommerce-analytics/
 
 ## Author
 
-**Marcel Fronczyk**
-
-Corporate finance consultant transitioning into data analytics / BI roles. This is Portfolio Project #2.
-
-- GitHub: [github.com/marcelFRO](https://github.com/marcelFRO)
-- Portfolio Project #1: [AI-Powered Job Market Intelligence](https://github.com/marcelFRO/ai-job-market-intelligence) — n8n + Apify + GPT-4o-mini + Power BI pipeline analyzing ~3,000 Polish data job offers
----
- 
-*This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.*
+Varun Raj
